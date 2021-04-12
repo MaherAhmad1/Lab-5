@@ -11,3 +11,6 @@ The benefit of a switch over a hub is very simple. A networked device can be ide
 
 ### Network design 
 My design is nothing special, just did as the instructions stated and hopefully its right. 
+
+### NSA/CSS
+The agency's mission is to protect the formulation of ciphers, code and all cryptology for the US military and other government agencies, They also do interception, analysis and solution of coded transmission. 
